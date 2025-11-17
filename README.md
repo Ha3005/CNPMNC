@@ -1,5 +1,5 @@
 <!-- Tiêu đề chính -->
-<h1 align="center" style="color:#2ecc71;">
+<h1 align="center" style="color:green;">
   🌿 Green Themed README
 </h1>
 
