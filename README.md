@@ -4,7 +4,7 @@
 </h1>
 
 <!-- Mô tả -->
-<p align="center" style="color:#27ae60; font-size:18px;">
+<p align="center" style="color:purple; font-size:18px;">
   Một phong cách README tông xanh lá nhẹ nhàng, hiện đại và dễ nhìn.
 </p>
 
